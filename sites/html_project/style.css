@@ -6,7 +6,7 @@ header {
     background-repeat: repeat-x;
     width: 100%;
     background-color: white;
-    z-index: 3;
+    z-index: 3; /*hjndfy*/
 }
 
 h1,
